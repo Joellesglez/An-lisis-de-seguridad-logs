@@ -1,0 +1,6 @@
+{
+    "log_file": "sample_logs/sample_auth.log",
+    "threshold": 5,
+    "log_type": "linux",
+    "output_file": "output/report.csv"
+}
