@@ -49,3 +49,7 @@ python3 analyzer.py
 python3 analyzer.py --config config.json --threshold 3
 
 ## Análisis de seguridad a través de logs con fuerza bruta JSGO 2026 
+
+
+https://img.shields.io/cii/level/https%3A%2F%2Fgithub.com%2FJoellesglez%2FAn-lisis-de-seguridad-logs.git
+
