@@ -58,6 +58,7 @@ Salida: CSV con IP, usuario, intentos fallidos y timestamps
 
 MIT License – LICENSE
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11885/badge)](https://www.bestpractices.dev/projects/11885)
+[![OpenSSF Best Practices](https://bestpractices.dev/projects/11885/badge)](https://bestpractices.dev/projects/11885)
+
 
 
