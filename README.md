@@ -58,6 +58,6 @@ Salida: CSV con IP, usuario, intentos fallidos y timestamps
 
 MIT License – LICENSE
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11885/badge)](https://www.bestpractices.dev/projects/11885)
 
-https://img.shields.io/cii/level/https%3A%2F%2Fgithub.com%2FJoellesglez%2FAn-lisis-de-seguridad-logs.git
 
