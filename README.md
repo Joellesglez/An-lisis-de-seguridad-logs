@@ -1,20 +1,10 @@
-## Security Log Analyzer ## 
+# Security Log Analyzer 🛡️
 
-Herramienta creada con Python para analizar las vulnerabilidades que se generan en las autenticaciones SSH a través fuerza bruta.#
+Herramienta en Python que analiza intentos de fuerza bruta en autenticaciones SSH y genera reportes CSV. Detecta IPs sospechosas, usuarios inválidos y eventos repetidos.
 
-Detecta las autenticaciones a través de ficheros.
-
-Detecta Ips con varios logis repetidos.
-
-Genera directamente un archivo CSV con los reportes.
-
-HTR en Terminal asociado:
-
-python analyzer.py
-
-Analizador de Registros de Seguridad
-
-Este Analizador de Registros de Seguridad es una herramienta de seguridad básica defensiva basada en Python que analiza los registros de autenticación para detectar posibles ataques de fuerza bruta.
+## Cómo usarlo
+```bash
+python3 analyzer.py
 
 Este proyecto está diseñado como un proyecto de auditoría de seguridad para empresas y particulares.
 
@@ -48,7 +38,25 @@ python3 analyzer.py
 
 python3 analyzer.py --config config.json --threshold 3
 
-## Análisis de seguridad a través de logs con fuerza bruta JSGO 2026 
+## Análisis de seguridad a través de logs con fuerza bruta JSGO 2026
+
+
+Abrir issues para errores o sugerencias
+
+Pull requests siguiendo PEP8
+
+Incluir tests si agregas funcionalidades importantes
+
+
+Entrada: logs SSH
+
+Salida: CSV con IP, usuario, intentos fallidos y timestamps
+
+
+
+# Licencia #
+
+MIT License – LICENSE
 
 
 https://img.shields.io/cii/level/https%3A%2F%2Fgithub.com%2FJoellesglez%2FAn-lisis-de-seguridad-logs.git
