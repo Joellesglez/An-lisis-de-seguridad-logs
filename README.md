@@ -54,6 +54,7 @@ Este proyecto está diseñado como un proyecto de auditoría de seguridad para e
 
           JSGO 2026
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 <p align="center">
