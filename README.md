@@ -54,6 +54,8 @@ Este proyecto está diseñado como un proyecto de auditoría de seguridad para e
 
           JSGO 2026
 
+
+
 <p align="center">
   <a href="https://www.bestpractices.dev/projects/11885">
     <img src="https://bestpractices.dev/projects/11885/badge" alt="OpenSSF Best Practices">
